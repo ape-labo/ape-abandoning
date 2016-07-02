@@ -1,6 +1,6 @@
 {
   "name": "ape-abandoning",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Abandoning a package.",
   "main": "lib",
   "scripts": {
